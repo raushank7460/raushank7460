@@ -1,6 +1,6 @@
 # Hi, I'm Raushan Kumar 👋
 
-MERN Stack Developer | Backend-focused | B.Tech CSE (GLA University, 2027)
+Aspiring MERN Stack Developer | Node.js | Express.js | MongoDB | React.js | REST APIs | JavaScript | Git & GitHub | AWS | Data Structures & Algorithms |
 
 I build full-stack web applications with Node.js, Express, MongoDB and React. Currently looking for SDE / Backend Developer opportunities.
 
