@@ -1,44 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff512f,50:e0245e,100:7b2ff7&height=240&section=header&text=Raushan%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Backend%20Focused&descSize=18&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff512f,50:e0245e,100:7b2ff7&height=230&section=header&text=Raushan%20Kumar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=MERN%20Stack%20Developer%20%C2%B7%20Backend%20Focused%20%C2%B7%20DSA%20in%20Java&descSize=17&descAlignY=64" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=640&lines=Building+full-stack+apps+with+MERN+%F0%9F%9A%80;REST+APIs+%7C+JWT+Auth+%7C+MongoDB+%F0%9F%94%A5;400%2B+DSA+problems+solved+in+Java+%F0%9F%92%AA;Open+to+SDE+%2F+Backend+roles+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=640&lines=Building+full-stack+apps+with+MERN+%F0%9F%9A%80;REST+APIs+%7C+JWT+Auth+%7C+MongoDB+%F0%9F%94%A5;400%2B+DSA+problems+solved+in+Java+%F0%9F%92%AA;Open+to+SDE+%2F+Backend+roles+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/raushan-kumar-449969421"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/raushanx05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="mailto:raushank7460@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=raushank7460&label=Profile%20Views&color=dd2476&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/raushan-kumar-449969421"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE2IDhhNiA2IDAgMCAxIDYgNnY3aC00di03YTIgMiAwIDAgMC0yLTIgMiAyIDAgMCAwLTIgMnY3aC00di03YTYgNiAwIDAgMSA2LTZ6Ii8%2BPHJlY3QgeD0iMiIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiLz48Y2lyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMiIvPjwvc3ZnPg%3D%3D" /></a>
+<a href="https://leetcode.com/u/raushanx05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlsaW5lIHBvaW50cz0iMTYgMTggMjIgMTIgMTYgNiIvPjxwb2x5bGluZSBwb2ludHM9IjggNiAyIDEyIDggMTgiLz48L3N2Zz4%3D" /></a>
+<a href="mailto:raushank7460@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTQgNGgxNmMxLjEgMCAyIC45IDIgMnYxMmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY2YzAtMS4xLjktMiAyLTJ6Ii8%2BPHBvbHlsaW5lIHBvaW50cz0iMjIsNiAxMiwxMyAyLDYiLz48L3N2Zz4%3D" /></a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🟢_Open_to_Work-SDE_%2F_Backend_Developer-dd2476?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=raushank7460&label=Profile%20Views&color=7b2ff7&style=for-the-badge" />
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
-I'm a **B.Tech CSE student at GLA University (2027)** and a **MERN stack developer** who loves building robust backend systems, REST APIs, authentication flows and clean database architectures.
-
-I practice DSA regularly in **Java** and have solved **400+ problems** on LeetCode.
-
-🔭 &nbsp;Building **NEXUSSTORE**, an e-commerce platform with an integrated AI shopping assistant<br/>
-🌱 &nbsp;Currently learning **Spring Boot**<br/>
-📫 &nbsp;Reach me at **raushank7460@gmail.com**
+```js
+const raushan = {
+  role: "MERN Stack Developer",
+  education: "B.Tech CSE @ GLA University (2027)",
+  focus: ["REST APIs", "JWT Auth", "DB Architecture"],
+  dsa: "400+ problems on LeetCode (Java)",
+  building: "NEXUSSTORE - AI-powered e-commerce",
+  learning: "Spring Boot",
+  openTo: "SDE / Backend roles",
+};
+```
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/400%2B-LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /><br/><br/>
-<img src="https://img.shields.io/badge/B.Tech-CSE%20'27-dd2476?style=for-the-badge&logo=googlescholar&logoColor=white" /><br/><br/>
-<img src="https://img.shields.io/badge/Focus-Backend%20%2F%20MERN-ff512f?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/400%2B-LeetCode%20Solved-FFA116?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20'27-dd2476?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/Learning-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
 </td>
 </tr>
@@ -46,19 +50,21 @@ I practice DSA regularly in **Java** and have solved **400+ problems** on LeetCo
 
 <br/>
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-**Languages & Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=java,js,py,html,css,react&perline=6" /><br/><br/>
-**Backend & Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=6" /><br/><br/>
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" /><br/><br/>
-**Tools & Deployment**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&perline=6" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<table>
+<tr>
+<td align="center" width="25%"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=java,js,py&theme=dark&perline=3" /></td>
+<td align="center" width="25%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3" /></td>
+<td align="center" width="25%"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark&perline=3" /></td>
+<td align="center" width="25%"><b>Databases</b><br/><br/><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=3" /></td>
+</tr>
+<tr>
+<td align="center" colspan="4"><b>Tools & Deployment</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark&perline=5" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></td>
+</tr>
+</table>
 
 </div>
 
@@ -111,16 +117,18 @@ I practice DSA regularly in **Java** and have solved **400+ problems** on LeetCo
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raushank7460&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff512f&icon_color=dd2476&text_color=c9d1d9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushank7460&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff512f&text_color=c9d1d9" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=raushank7460&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ff512f&text_color=c9d1d9&border_radius=14" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushank7460&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&border_radius=14" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raushank7460&theme=radical&hide_border=true&background=0d1117&stroke=ff512f&ring=dd2476&fire=ff512f&currStreakLabel=ff6b6b" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raushank7460&theme=tokyonight&hide_border=true&background=0d1117&stroke=ff512f&ring=dd2476&fire=ff512f&currStreakLabel=ff6b9d&border_radius=14" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=raushank7460&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
 <br/>
 
-## 🧩 LeetCode
+## 🧩 LeetCode Progress
 
 <div align="center">
 
@@ -136,7 +144,7 @@ I practice DSA regularly in **Java** and have solved **400+ problems** on LeetCo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushank7460&bg_color=0d1117&color=ff512f&line=dd2476&point=ffffff&area=true&area_color=dd2476&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushank7460&bg_color=0d1117&color=ff6b9d&line=ff512f&point=ffffff&area=true&area_color=dd2476&hide_border=true&radius=14" width="100%" />
 
 </div>
 
@@ -144,10 +152,15 @@ I practice DSA regularly in **Java** and have solved **400+ problems** on LeetCo
 
 <div align="center">
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
+
 Open to **SDE / Backend Developer** opportunities. Drop a message!
 
-<a href="mailto:raushank7460@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-ff512f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:raushank7460@gmail.com"><img src="https://img.shields.io/badge/raushank7460@gmail.com-1a1a1a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTQgNGgxNmMxLjEgMCAyIC45IDIgMnYxMmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY2YzAtMS4xLjktMiAyLTJ6Ii8%2BPHBvbHlsaW5lIHBvaW50cz0iMjIsNiAxMiwxMyAyLDYiLz48L3N2Zz4%3D" /></a>
+<br/>
+<a href="https://www.linkedin.com/in/raushan-kumar-449969421"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE2IDhhNiA2IDAgMCAxIDYgNnY3aC00di03YTIgMiAwIDAgMC0yLTIgMiAyIDAgMCAwLTIgMnY3aC00di03YTYgNiAwIDAgMSA2LTZ6Ii8%2BPHJlY3QgeD0iMiIgeT0iOSIgd2lkdGg9IjQiIGhlaWdodD0iMTIiLz48Y2lyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMiIvPjwvc3ZnPg%3D%3D" /></a>
+<a href="https://leetcode.com/u/raushanx05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlsaW5lIHBvaW50cz0iMTYgMTggMjIgMTIgMTYgNiIvPjxwb2x5bGluZSBwb2ludHM9IjggNiAyIDEyIDggMTgiLz48L3N2Zz4%3D" /></a>
+<a href="mailto:raushank7460@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-dd2476?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTQgNGgxNmMxLjEgMCAyIC45IDIgMnYxMmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY2YzAtMS4xLjktMiAyLTJ6Ii8%2BPHBvbHlsaW5lIHBvaW50cz0iMjIsNiAxMiwxMyAyLDYiLz48L3N2Zz4%3D" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:e0245e,100:ff512f&height=120&section=footer" width="100%" />
 
