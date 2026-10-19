@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff512f,50:e0245e,100:7b2ff7&height=230&section=header&text=Raushan%20Kumar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=MERN%20Stack%20Developer%20%C2%B7%20Backend%20Focused%20%C2%B7%20DSA%20in%20Java&descSize=17&descAlignY=64" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff512f,100:7b2ff7&height=150&section=header&text=Raushan%20Kumar&fontSize=58&fontColor=ff6b9d&fontAlignY=45&desc=MERN%20Stack%20Developer%20%C2%B7%20Backend%20Focused%20%C2%B7%20DSA%20in%20Java&descSize=16&descAlignY=72&descColor=9ca3af&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:e0245e,100:7b2ff7&height=3" width="60%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=640&lines=Building+full-stack+apps+with+MERN+%F0%9F%9A%80;REST+APIs+%7C+JWT+Auth+%7C+MongoDB+%F0%9F%94%A5;400%2B+DSA+problems+solved+in+Java+%F0%9F%92%AA;Open+to+SDE+%2F+Backend+roles+%E2%9C%A8" alt="Typing SVG" />
 
@@ -48,7 +50,7 @@ const raushan = {
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:e0245e,100:7b2ff7&height=2" width="100%" />
 
 ## ⚡ Tech Stack
 
@@ -68,7 +70,7 @@ const raushan = {
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:e0245e,100:7b2ff7&height=2" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -111,7 +113,7 @@ const raushan = {
   </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:e0245e,100:7b2ff7&height=2" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -126,7 +128,7 @@ const raushan = {
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:e0245e,100:7b2ff7&height=2" width="100%" />
 
 ## 🧩 LeetCode Progress
 
@@ -138,7 +140,7 @@ const raushan = {
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:e0245e,100:7b2ff7&height=2" width="100%" />
 
 ## 📈 Contribution Activity
 
@@ -148,7 +150,7 @@ const raushan = {
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:e0245e,100:7b2ff7&height=2" width="100%" />
 
 <div align="center">
 
@@ -162,6 +164,8 @@ Open to **SDE / Backend Developer** opportunities. Drop a message!
 <a href="https://leetcode.com/u/raushanx05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlsaW5lIHBvaW50cz0iMTYgMTggMjIgMTIgMTYgNiIvPjxwb2x5bGluZSBwb2ludHM9IjggNiAyIDEyIDggMTgiLz48L3N2Zz4%3D" /></a>
 <a href="mailto:raushank7460@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-dd2476?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTQgNGgxNmMxLjEgMCAyIC45IDIgMnYxMmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY2YzAtMS4xLjktMiAyLTJ6Ii8%2BPHBvbHlsaW5lIHBvaW50cz0iMjIsNiAxMiwxMyAyLDYiLz48L3N2Zz4%3D" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:e0245e,100:ff512f&height=120&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:e0245e,100:7b2ff7&height=3" width="60%" />
 
 </div>
