@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,50:e0245e,100:7b2ff7&height=3" width="60%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=640&lines=Building+full-stack+apps+with+MERN+%F0%9F%9A%80;REST+APIs+%7C+JWT+Auth+%7C+MongoDB+%F0%9F%94%A5;400%2B+DSA+problems+solved+in+Java+%F0%9F%92%AA;Open+to+SDE+%2F+Backend+roles+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=640&lines=Building+full-stack+apps+with+MERN+%F0%9F%9A%80;REST+APIs+%7C+JWT+Auth+%7C+MongoDB+%F0%9F%94%A5;100%2B+DSA+problems+solved+in+Java+%F0%9F%92%AA;Open+to+SDE+%2F+Backend+roles+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
